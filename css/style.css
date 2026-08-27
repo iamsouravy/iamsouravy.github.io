@@ -565,7 +565,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
-  max-width: 760px;
+  max-width: 520px;
   margin: 0 auto;
 }
 
